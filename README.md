@@ -1,16 +1,16 @@
 # Tata-1Mg-Homeopathic-medicine-Analysis
 
-This project involves analyzing data related to medicine products, including their benefits, pricing, brands, ratings, and ingredients. The goal is to generate insights that can be used to create an interactive dashboard for analyzing the cost of opening a homeopathic medicine store and selecting the best medicine based on benefit area. 
+The project involves analyzing homeopathic medicine data, including benefits, pricing, brands, ratings, and ingredients. The goal is to create an interactive dashboard for cost analysis and optimal product selection in opening a homeopathic medicine store.
 
 
 ##   **User's Manual**
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **Excel file** | This file provides the cleaned data after data cleaning.  |
-| **Python File** | This contains the .ipynb file related to the web scrapping part.  |
+| **Excel file** | This contains the cleaned data.  |
+| **Python File** | This contains the .ipynb file related to the web data scraping part.  |
 | **Other Excel file** | This will provide the raw files after web scraping |
-| **Project Prestation** | This file have the dashboards and insights of the project. |
+| **Project Presentation** | This file have the dashboards and insights of the project. |
 
 ##   Analysis
 
