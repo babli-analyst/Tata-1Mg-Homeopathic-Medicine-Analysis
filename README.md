@@ -27,10 +27,10 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 
 ##  Tools and Languages used
 
-- Scraped the data with the help of Python BeautifulSoup librariy.
+- Scraped the data with the help of Python BeautifulSoup library.
 - Used Pandas for the data framing part.
-- Analysis was done with the help of Pandas and Excel.
-- Insights were generated from the above analysis.
+- Analysis is done with the help of Pandas and Excel.
+- Insights are generated from the above analysis.
 - Excel is used for dashboard and data visualization.
 
 # Dashboard
@@ -40,9 +40,9 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 
 # Insights
 
-- Availability of  medicines are higher in skin followed by eye and digestion field.
+- Availability of  medicines are higher in skin followed by eye and digestion segment.
 
-- Lowest number of medicines in tooth, cardiac and diabetes field.
+- Lowest number of medicines in tooth, cardiac and diabetes segment.
 
 
 ![Medicine availability analysis](https://github.com/ankitpal154/Capstone_project/assets/139064260/0a592d2d-c71e-479d-82fd-4e6b552b44ee)
@@ -56,7 +56,7 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 
 
 
-- For Dental products, the most used brand is Bakson's Homeopathy having average rating of 2.9
+- For Dental products, the most used brand is Bakson's Homeopathy with average rating of 2.9
 
 
 ![Brand analysis](https://github.com/ankitpal154/Capstone_project/assets/139064260/d5f9a4f3-c7d2-4658-8bd9-4459ffaa5ade)
@@ -64,9 +64,9 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 
 
 
-- For Diabetes products, the most used brand is Dr Reckeweg & Co having average rating of 4.7.
+- For Diabetes products, the most used brand is Dr Reckeweg & Co with average rating of 4.7.
 
-- Medicines of SBL Pvt Ltd have the highest percentage of products having rating greater than 4.
+- Medicines of SBL Pvt Ltd have the highest percentage of products with rating greater than 4.
 
 
 ![most greater 4 point review](https://github.com/ankitpal154/Capstone_project/assets/139064260/ff8a85f1-2a46-4351-808a-a820497eebaa)
@@ -76,7 +76,7 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 
 - Market capture of SBL Pvt Ltd is comparatively better than others.
 - Better Scope in the Dental Category Because Competition in that Category is comparitively low.
-- Approximately 9-10 lakh Indian Rupees is required to open a homeopathic medicine store in a Tier 2 city.
+- Approximately 9-10 lakh Indian Rupees is required to open a homeopathic medicine store in Tier 2 city.
  
 ![Guestimate](https://github.com/ankitpal154/Capstone_project/assets/139064260/22524af8-bb53-48ef-940a-4455a0211aa0)
 # Challenges Faced
