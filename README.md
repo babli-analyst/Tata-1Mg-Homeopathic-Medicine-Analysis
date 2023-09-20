@@ -1,0 +1,1 @@
+# Tata-1Mg-Homeopathic-Medicine-Analysis
