@@ -3,7 +3,7 @@
 The project involves analyzing homeopathic medicine data, including benefits, pricing, brands, ratings, and ingredients. The goal is to create an interactive dashboard for cost analysis and optimal product selection in opening a homeopathic medicine store.
 
 
-##   **User's Manual**
+##   **User's Manual:**
 
 | Files/Folder| Description |
 | ------------- | ------------- |
@@ -11,7 +11,7 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 | **Python File** | This contains the .ipynb file related to the web data scraping part.  |
 | **Project Presentation** | This file have the dashboards and insights of the project. |
 
-##   Analysis
+##   Analysis:
 
 - Number of medicine available in different benefit segment.
 - Price range of medicine for each benefit segment.
@@ -25,7 +25,7 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 
 
 
-##  Tools and Languages used
+##  Tools and Languages used:
 
 - Scraped the data with the help of Python BeautifulSoup library.
 - Used Pandas for the data framing part.
@@ -33,12 +33,12 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 - Insights are generated from the above analysis.
 - Excel is used for dashboard and data visualization.
 
-# Dashboard
+# Dashboard:
 ![1mg dashboard](https://github.com/ankitpal154/Capstone_project/assets/139064260/e9d479ef-7ca7-4924-a389-0008cc786d79)
 
 
 
-# Insights
+# Insights:
 
 - Availability of  medicines are higher in skin followed by eye and digestion segment.
 
@@ -72,14 +72,14 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 ![most greater 4 point review](https://github.com/ankitpal154/Capstone_project/assets/139064260/ff8a85f1-2a46-4351-808a-a820497eebaa)
 
 ![most used ingredients and avg price](https://github.com/ankitpal154/Capstone_project/assets/139064260/3b80bcaa-54e2-4dfd-9a7c-9fbdd909a33f)
-# Conclusion
+# Conclusions:
 
 - Market capture of SBL Pvt Ltd is comparatively better than others.
 - Better Scope in the Dental Category Because Competition in that Category is comparitively low.
 - Approximately 9-10 lakh Indian Rupees is required to open a homeopathic medicine store in Tier 2 city.
  
 ![Guestimate](https://github.com/ankitpal154/Capstone_project/assets/139064260/22524af8-bb53-48ef-940a-4455a0211aa0)
-# Challenges Faced
+# Challenges Faced:
 - **Website Ban**: Faced repeated bans on the 1Mg official website during data scraping attempts.
 - **Google Colab Solution**: Resolved the issue by migrating scraping operations to Google Colab.
 - **Extended Scraping Time**: Extracting details of each medicine took more time than anticipated.
