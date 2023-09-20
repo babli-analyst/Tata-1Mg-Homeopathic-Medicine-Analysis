@@ -7,22 +7,21 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **Excel file** | This contains the cleaned data.  |
+| **Excel file** | This contains the cleaned data and dashboard.  |
 | **Python File** | This contains the .ipynb file related to the web data scraping part.  |
-| **Other Excel file** | This will provide the raw files after web scraping |
 | **Project Presentation** | This file have the dashboards and insights of the project. |
 
 ##   Analysis
 
-- Number of medicine available of different benefit area.
-- Price range of medicine for each benefit area.
-- Brand specialization(Key Benefits) of each area.
+- Number of medicine available in different benefit segment.
+- Price range of medicine for each benefit segment.
+- Brand specialization(Key Benefits) of each segment.
 - Average price, min price , max price and number of products for each brand.
-- Average number of rating for each brand in their specialization products where  the number of rating is not NULL.
-- Maximum number of times ingredient used in each benefit area.
+- Average number of rating for each brand in their specialization where  the number of rating is not NULL.
+- Maximum number of times ingredient used in each benefit segment.
 - Average cost for ingredients.
-- Most used ingredient
-- Which brand has most greater than 4 point review medicine?
+- Mostly used ingredient.
+- Which medicine brand has greater than 4 points in review ?
 
 
 
