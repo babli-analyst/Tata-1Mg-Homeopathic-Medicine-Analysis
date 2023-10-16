@@ -42,21 +42,24 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 - Lowest number of medicines in tooth, cardiac and diabetes segment.
 
 
-![Medicine availability analysis](https://github.com/ankitpal154/Capstone_project/assets/139064260/0a592d2d-c71e-479d-82fd-4e6b552b44ee)
+![1](https://github.com/babli-analyst/Tata-1Mg-Homeopathic-Medicine-Analysis/assets/137719109/f4cb5103-c8d2-4de2-b64c-0f4c57b4268d)
+
 
 
 - Highest maximum price of medicine is present in dental category.
 
 - lowest minimum price of medicine is present in dental category.
 
-![Price analysis](https://github.com/ankitpal154/Capstone_project/assets/139064260/aaa5f33b-2b1c-4553-9658-75c3c1064a86)
+![2](https://github.com/babli-analyst/Tata-1Mg-Homeopathic-Medicine-Analysis/assets/137719109/d20a62b0-9da9-4c7c-bf23-d0a08f244c73)
+
 
 
 
 - For Dental products, the most used brand is Bakson's Homeopathy with average rating of 2.9
 
 
-![Brand analysis](https://github.com/ankitpal154/Capstone_project/assets/139064260/d5f9a4f3-c7d2-4658-8bd9-4459ffaa5ade)
+![3](https://github.com/babli-analyst/Tata-1Mg-Homeopathic-Medicine-Analysis/assets/137719109/d9c20d0a-8d32-4043-bfd1-9192bc6a98ed)
+
 
 
 
@@ -66,9 +69,9 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 - Medicines of SBL Pvt Ltd have the highest percentage of products with rating greater than 4.
 
 
-![most greater 4 point review](https://github.com/ankitpal154/Capstone_project/assets/139064260/ff8a85f1-2a46-4351-808a-a820497eebaa)
+![4](https://github.com/babli-analyst/Tata-1Mg-Homeopathic-Medicine-Analysis/assets/137719109/072f3d30-7e8d-45be-abb6-14ff5ec3d5c6)
 
-![most used ingredients and avg price](https://github.com/ankitpal154/Capstone_project/assets/139064260/3b80bcaa-54e2-4dfd-9a7c-9fbdd909a33f)
+
 # Conclusions:
 
 - Market capture of SBL Pvt Ltd is comparatively better than others.
