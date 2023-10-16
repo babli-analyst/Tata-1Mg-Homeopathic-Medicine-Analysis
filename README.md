@@ -35,41 +35,33 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 
 
 
-# Insights:
+# Visualisations:
 
-- Availability of  medicines are higher in skin followed by eye and digestion segment.
 
-- Lowest number of medicines in tooth, cardiac and diabetes segment.
 
 
 ![1](https://github.com/babli-analyst/Tata-1Mg-Homeopathic-Medicine-Analysis/assets/137719109/f4cb5103-c8d2-4de2-b64c-0f4c57b4268d)
 
 
 
-- Highest maximum price of medicine is present in dental category.
 
-- lowest minimum price of medicine is present in dental category.
 
 ![2](https://github.com/babli-analyst/Tata-1Mg-Homeopathic-Medicine-Analysis/assets/137719109/d20a62b0-9da9-4c7c-bf23-d0a08f244c73)
 
 
 
 
-- For Dental products, the most used brand is Bakson's Homeopathy with average rating of 2.9
-
-
 ![3](https://github.com/babli-analyst/Tata-1Mg-Homeopathic-Medicine-Analysis/assets/137719109/d9c20d0a-8d32-4043-bfd1-9192bc6a98ed)
 
 
 
-
-
-- For Diabetes products, the most used brand is Dr Reckeweg & Co with average rating of 4.7.
-
-- Medicines of SBL Pvt Ltd have the highest percentage of products with rating greater than 4.
-
-
 ![4](https://github.com/babli-analyst/Tata-1Mg-Homeopathic-Medicine-Analysis/assets/137719109/072f3d30-7e8d-45be-abb6-14ff5ec3d5c6)
+
+
+
+![6](https://github.com/babli-analyst/Tata-1Mg-Homeopathic-Medicine-Analysis/assets/137719109/d3ce6ef6-67ca-40c7-9d87-5548a65c8644)
+
+# Insights:
 
 
 # Conclusions:
