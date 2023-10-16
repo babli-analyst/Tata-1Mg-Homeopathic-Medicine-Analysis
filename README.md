@@ -7,17 +7,18 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **Excel file** | This contains the cleaned data and dashboard.  |
-| **Python File** | This contains the .ipynb file related to the web data scraping part.  |
+| **Excel File** | This contains the scraped data and cleaned data.  |
+| **Python File** | This contains the .ipynb file related to the web data scraping and data cleaning.  |
 | **Project Presentation** | This file have the dashboards and insights of the project. |
+| **Sql File** | This contain sql query for categorywise top rating. |
+
 
 ##   Analysis:
 
-- Number of medicine available in different benefit segment.
-- Price range of medicine for each benefit segment.
-- Brand specialization(Key Benefits) of each segment.
-- Average price, min price , max price and number of products for each brand.
-- Average number of rating for each brand in their specialization where  the number of rating is not NULL.
+- Number of medicine available in different category.
+- Price range of medicine for each category.
+- Brand specialization for each category.
+- Average number of rating for each brand in their specialization.
 - Which medicine brand has greater than 4 points in review ?
 
 ##  Tools and Languages used:
@@ -37,26 +38,16 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 
 # Visualisations:
 
-
-
-
 ![1](https://github.com/babli-analyst/Tata-1Mg-Homeopathic-Medicine-Analysis/assets/137719109/f4cb5103-c8d2-4de2-b64c-0f4c57b4268d)
-
-
-
 
 
 ![2](https://github.com/babli-analyst/Tata-1Mg-Homeopathic-Medicine-Analysis/assets/137719109/d20a62b0-9da9-4c7c-bf23-d0a08f244c73)
 
 
-
-
 ![3](https://github.com/babli-analyst/Tata-1Mg-Homeopathic-Medicine-Analysis/assets/137719109/d9c20d0a-8d32-4043-bfd1-9192bc6a98ed)
 
 
-
 ![4](https://github.com/babli-analyst/Tata-1Mg-Homeopathic-Medicine-Analysis/assets/137719109/072f3d30-7e8d-45be-abb6-14ff5ec3d5c6)
-
 
 
 ![6](https://github.com/babli-analyst/Tata-1Mg-Homeopathic-Medicine-Analysis/assets/137719109/d3ce6ef6-67ca-40c7-9d87-5548a65c8644)
@@ -72,7 +63,6 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 # Conclusions:
 
 - Market capture of SBL Pvt Ltd is comparatively better than others.
-- Better Scope in the Dental Category Because Competition in that Category is comparitively low.
 
 # Challenges Faced:
 - **Website Ban**: Faced repeated bans on the 1Mg official website during data scraping attempts.
