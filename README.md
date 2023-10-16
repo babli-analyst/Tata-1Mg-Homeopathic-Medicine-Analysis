@@ -18,20 +18,15 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 - Brand specialization(Key Benefits) of each segment.
 - Average price, min price , max price and number of products for each brand.
 - Average number of rating for each brand in their specialization where  the number of rating is not NULL.
-- Maximum number of times ingredient used in each benefit segment.
-- Average cost for ingredients.
-- Mostly used ingredient.
 - Which medicine brand has greater than 4 points in review ?
-
-
 
 ##  Tools and Languages used:
 
 - Scraped the data with the help of Python BeautifulSoup library.
 - Used Pandas for the data framing part.
-- Analysis is done with the help of Pandas and Excel.
+- Analysis is done with the help of Pandas, SQL and Power BI.
 - Insights are generated from the above analysis.
-- Excel is used for dashboard and data visualization.
+- Power BI is used for dashboard and data visualization.
 
 # Dashboard:
 ![1mg dashboard](https://github.com/ankitpal154/Capstone_project/assets/139064260/e9d479ef-7ca7-4924-a389-0008cc786d79)
@@ -76,12 +71,9 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 
 - Market capture of SBL Pvt Ltd is comparatively better than others.
 - Better Scope in the Dental Category Because Competition in that Category is comparitively low.
-- Approximately 9-10 lakh Indian Rupees is required to open a homeopathic medicine store in Tier 2 city.
  
 ![Guestimate](https://github.com/ankitpal154/Capstone_project/assets/139064260/22524af8-bb53-48ef-940a-4455a0211aa0)
 # Challenges Faced:
 - **Website Ban**: Faced repeated bans on the 1Mg official website during data scraping attempts.
-- **Google Colab Solution**: Resolved the issue by migrating scraping operations to Google Colab.
 - **Extended Scraping Time**: Extracting details of each medicine took more time than anticipated.
 - **Duplicate Data Issue**: Encountered delays due to duplicate data in the scraping process.
-- **Learning Efficiency**: Gained insights into optimizing scraping methods for speed and accuracy.
