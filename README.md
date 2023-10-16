@@ -29,7 +29,9 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 - Power BI is used for dashboard and data visualization.
 
 # Dashboard:
-![1mg dashboard](https://github.com/ankitpal154/Capstone_project/assets/139064260/e9d479ef-7ca7-4924-a389-0008cc786d79)
+
+
+![5](https://github.com/babli-analyst/Tata-1Mg-Homeopathic-Medicine-Analysis/assets/137719109/5224a253-18c8-4470-a388-164f5a67add3)
 
 
 
