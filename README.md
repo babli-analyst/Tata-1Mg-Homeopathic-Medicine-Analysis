@@ -1,6 +1,6 @@
 # Tata-1Mg-Homeopathic-medicine-Analysis
 
-The project involves analyzing homeopathic medicine data, including benefits, pricing, brands, ratings, and ingredients. The goal is to create an interactive dashboard for cost analysis and optimal product selection in opening a homeopathic medicine store.
+The project involves analyzing homeopathic medicine data, including benefits, pricing, brands, ratings, and ingredients. The goal is to create an interactive dashboard for cost analysis and optimal product selection.
 
 
 ##   **User's Manual:**
