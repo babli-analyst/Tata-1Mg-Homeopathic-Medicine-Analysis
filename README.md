@@ -63,13 +63,17 @@ The project involves analyzing homeopathic medicine data, including benefits, pr
 
 # Insights:
 
+- Digestion category has highest no. of brands providing the medicine which means demands in this category is very high.
+- Highest no. of products are being supplied by SBL. Pvt. Ltd. This means people have good faith in this brand.
+- Rating of SBL. Pvt. Ltd. is also good which is greater than 4.5.
+- Health Suppliment category has high MRP as well as high Selling price.
+- For category wise top rated brands, Dr Reckeweg & Co leads in more than 1 category.
 
 # Conclusions:
 
 - Market capture of SBL Pvt Ltd is comparatively better than others.
 - Better Scope in the Dental Category Because Competition in that Category is comparitively low.
- 
-![Guestimate](https://github.com/ankitpal154/Capstone_project/assets/139064260/22524af8-bb53-48ef-940a-4455a0211aa0)
+
 # Challenges Faced:
 - **Website Ban**: Faced repeated bans on the 1Mg official website during data scraping attempts.
 - **Extended Scraping Time**: Extracting details of each medicine took more time than anticipated.
